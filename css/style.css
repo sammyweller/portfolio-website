@@ -233,9 +233,11 @@ table {
   box-shadow: 8px 8px 0 var(--tableoutline);
   border-radius: 20px;
   text-align: center;
+  justify-content: center;
   vertical-align: middle;
   padding: 0 20px;
   margin-top: -5px;
+  margin: auto;
 }
 
 td, th {
